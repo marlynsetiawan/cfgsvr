@@ -1,0 +1,18 @@
+# PHP
+php7.4=https://windows.php.net/downloads/releases/php-7.4.19-nts-Win32-vc15-x64.zip 
+
+# Nginx Stable
+nginx-12=http://nginx.org/download/nginx-1.20.1.zip
+
+# phpMyAdmin
+*phpmyadmin=https://files.phpmyadmin.net/phpMyAdmin/5.1.0/phpMyAdmin-5.1.0-all-languages.zip
+
+# MariaDB 
+mariadb-10.4=https://downloads.mariadb.org/interstitial/mariadb-10.4.19/winx64-packages/mariadb-10.4.19-winx64.zip/from/http%3A//sgp1.mirrors.digitalocean.com/mariadb/?serve
+
+#Git
+*git=https://github.com/leokhoa/laragon-packages/releases/download/4.0/git-2.19.2.zip
+------------------------------------------------------
+
+#Node JS
+*node-14=https://nodejs.org/dist/v14.17.0/node-v14.17.0-win-x64.zip
